@@ -1,1 +1,1 @@
-# pizza co company
+# React Pizza Company
